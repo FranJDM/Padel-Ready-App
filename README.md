@@ -60,4 +60,4 @@ Se analizan las rachas de viento para determinar si el control de los globos es 
 - [ ] Base de datos de clubes locales.
 
 ---
-Desarrollado con ❤️ para la comunidad de pádel.
+En desarrollo para la comunidad de pádel.
